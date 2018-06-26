@@ -1,6 +1,6 @@
 class AddInfo < ActiveRecord::Migration
   def change
-    add_column :
+    add_column :students, :grade, :string
   end
 
 end
