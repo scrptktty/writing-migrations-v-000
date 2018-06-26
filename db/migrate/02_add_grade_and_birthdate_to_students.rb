@@ -1,4 +1,4 @@
-require_relative '01_create_students.rb'
+# require_relative '01_create_students.rb'
 
 class AddGradeAndBirthdateToStudents < ActiveRecord::Migration[4.2]
   def change
