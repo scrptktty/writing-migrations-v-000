@@ -5,4 +5,4 @@ def change
       t.string :name
     end
   end
-end
+end # CreateStudents
